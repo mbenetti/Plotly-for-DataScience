@@ -6,3 +6,5 @@ Dash was made by Plotly's creators as a way to easily implement a web interface 
 
 The other option is to use streamlit to create a webapp and embeded plotly on it.
 
+![choose-plot-type](https://user-images.githubusercontent.com/27162948/177047257-ccbcb5e6-b5bc-432e-b3b5-5911fb625106.png) 
+*chart source: https://www.analyticsvidhya.com/blog/2021/06/data-visualization-techniques-you-must-know-as-a-data-scientist*
