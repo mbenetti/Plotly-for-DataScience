@@ -1,4 +1,4 @@
-# Plotly-for-DataScience
+# Plotly for DataScience
 
 Repository with visualization examples using the Plotly library. This is a good library for interactive dashboards and works very well with Flask in Webapps.
 
